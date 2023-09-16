@@ -136,9 +136,4 @@ Coda<T>::~Coda()
     }
 }
 
-
-
-
-
 #endif
-
