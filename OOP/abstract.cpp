@@ -10,14 +10,14 @@ public:
 
 // Classe figlia 1
 class Auto : public Veicolo {
-public:
-    void Accelerare() {
-        cout << "L'auto accelera." << endl;
-    }
+    public:
+        void Accelerare() {
+            cout << "L'auto accelera." << endl;
+        }
 
-    void Frenare() {
-        cout << "L'auto frena." << endl;
-    }
+        void Frenare() {
+            cout << "L'auto frena." << endl;
+        }
 };
 
 // Classe figlia 2
